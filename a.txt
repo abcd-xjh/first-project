@@ -1,4 +1,5 @@
 asdfasdf1111
+<<<<<<< HEAD
 112
 asdfa
 asdfasdfa
@@ -8,3 +9,10 @@ asdfasdfas
 asdfassdfa
 asdfa
 asdfa
+=======
+<<<<<<< HEAD
+adsa
+=======
+112
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
