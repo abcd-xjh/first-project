@@ -1,2 +1,6 @@
 asdfasdf1111
+<<<<<<< HEAD
 adsa
+=======
+112
+>>>>>>> refs/remotes/origin/master
